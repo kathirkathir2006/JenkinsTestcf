@@ -1,5 +1,5 @@
 package com.clayfin.java.training.mavendemo;
-
+import java.util.Scanner;
 /**
  * Hello world!
  *
