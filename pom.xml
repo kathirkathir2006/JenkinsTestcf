@@ -27,7 +27,7 @@
 			<artifactId>mavendemo2</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
-		added for demo - poll scm
+		added for demo - poll scm committed
 		-->
 		<dependency>
 			<groupId>jstl</groupId>
