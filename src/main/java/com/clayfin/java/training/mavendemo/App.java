@@ -6,8 +6,8 @@ import java.util.Scanner;
  */
 public class App 
 {
-    public tatic void main( String[] args )
+    public static void main( String[] args )
     {
-        Syst.out.pr( "Hello World!" );
+        System.out.println( "Hello World!" );
     }
 }
