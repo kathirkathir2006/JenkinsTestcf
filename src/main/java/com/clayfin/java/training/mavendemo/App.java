@@ -8,6 +8,6 @@ public class App
 {
     public tatic void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        Syst.out.pr( "Hello World!" );
     }
 }
